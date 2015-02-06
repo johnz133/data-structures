@@ -9,8 +9,6 @@ Queue.prototype.enqueue = function(value){
   this[this.end++] = value;
 };
 
-Queue.enqueue("tomorrow");
-
 Queue.prototype.size = function(){
   return Math.max(0, this.end - this.start);
 };
