@@ -1,11 +1,9 @@
-var Queue = function (){
+var Queue = function() {
   // Hey! Rewrite in the new style. Your code will wind up looking very similar,
   // but try not not reference your old code in writing the new style.
-  var instance = {
-    start:0,
-    end:0
-  };
-  _.extend(instance, queueMethods);
+  var instance = Object.create(queueMethods);
+  instance.start = 0;
+  instance.end = 0;
   return instance;
 };
 
@@ -13,13 +11,12 @@ var queueMethods = {
   enqueue: function(value){
     this[this.end++] = value;
   },
+
   dequeue: function(){
     return this[this.start++];
   },
+
   size: function(){
-    return Math.max(this.end-this.start, 0);
+    return Math.max(0, this.end - this.start);
   }
 };
-
-
-
