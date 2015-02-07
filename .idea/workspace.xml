@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97cf0a01-a7fd-495d-8230-34b6adc9d564" name="Default" comment="Merge branch 'master' of https://github.com/johnz133/2015-02-data-structures&#10;&#10;Conflicts:&#10;&#9;sprint-one/src/functional-shared/queue.js&#10;&#9;sprint-one/src/functional-shared/stack.js&#10;&#9;sprint-one/src/functional/queue.js&#10;&#9;sprint-one/src/functional/stack.js&#10;&#9;sprint-one/src/prototypal/queue.js&#10;&#9;sprint-one/src/prototypal/stack.js&#10;&#9;sprint-one/src/pseudoclassical/queue.js&#10;&#9;sprint-one/src/pseudoclassical/stack.js&#10;&#9;sprint-two/src/linkedList.js&#10;">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sprint-two/src/binarySearchTree.js" afterPath="$PROJECT_DIR$/sprint-two/src/binarySearchTree.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sprint-two/spec/binarySearchTreeSpec.js" afterPath="$PROJECT_DIR$/sprint-two/spec/binarySearchTreeSpec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sprint-two/src/graph.js" afterPath="$PROJECT_DIR$/sprint-two/src/graph.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sprint-two/src/hashTable.js" afterPath="$PROJECT_DIR$/sprint-two/src/hashTable.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sprint-two/spec/hashTableSpec.js" afterPath="$PROJECT_DIR$/sprint-two/spec/hashTableSpec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sprint-two/src/linkedList.js" afterPath="$PROJECT_DIR$/sprint-two/src/linkedList.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sprint-one/src/functional/queue.js" afterPath="$PROJECT_DIR$/sprint-one/src/functional/queue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sprint-one/src/functional-shared/queue.js" afterPath="$PROJECT_DIR$/sprint-one/src/functional-shared/queue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sprint-one/src/prototypal/queue.js" afterPath="$PROJECT_DIR$/sprint-one/src/prototypal/queue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sprint-one/src/pseudoclassical/queue.js" afterPath="$PROJECT_DIR$/sprint-one/src/pseudoclassical/queue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sprint-two/src/set.js" afterPath="$PROJECT_DIR$/sprint-two/src/set.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sprint-one/src/functional/stack.js" afterPath="$PROJECT_DIR$/sprint-one/src/functional/stack.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sprint-one/src/functional-shared/stack.js" afterPath="$PROJECT_DIR$/sprint-one/src/functional-shared/stack.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sprint-one/src/prototypal/stack.js" afterPath="$PROJECT_DIR$/sprint-one/src/prototypal/stack.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sprint-one/src/pseudoclassical/stack.js" afterPath="$PROJECT_DIR$/sprint-one/src/pseudoclassical/stack.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sprint-two/src/tree.js" afterPath="$PROJECT_DIR$/sprint-two/src/tree.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="2015-02-data-structures-john-paulo.iws" />
@@ -28,11 +41,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="linkedList.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="linkedList.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sprint-two/src/linkedList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="371" max-vertical-offset="840">
-              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="44" selection-end-column="2" />
+            <state vertical-scroll-proportion="2.122302" vertical-offset="0" max-vertical-offset="1245">
+              <caret line="59" column="1" selection-start-line="64" selection-start-column="0" selection-end-line="71" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -41,8 +54,8 @@
       <file leaf-file-name="tree.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sprint-two/src/tree.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="630">
-              <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -51,8 +64,8 @@
       <file leaf-file-name="graph.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sprint-two/src/graph.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="213" max-vertical-offset="750">
-              <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1410">
+              <caret line="83" column="17" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -61,18 +74,42 @@
       <file leaf-file-name="set.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sprint-two/src/set.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="450">
-              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
+              <caret line="44" column="2" selection-start-line="44" selection-start-column="2" selection-end-line="44" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hashTable.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hashTable.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sprint-two/src/hashTable.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.65707433" vertical-offset="116" max-vertical-offset="1200">
-              <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1425">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding>
+                <marker date="1423350715000" expanded="true" signature="273:621" placeholder="{...}" />
+                <marker date="1423350715000" expanded="true" signature="399:621" placeholder="{...}" />
+                <marker date="1423350715000" expanded="true" signature="620:621" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="binarySearchTreeSpec.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sprint-two/spec/binarySearchTreeSpec.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="690">
+              <caret line="4" column="47" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="binarySearchTree.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sprint-two/src/binarySearchTree.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="678" max-vertical-offset="1095">
+              <caret line="59" column="26" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -81,8 +118,18 @@
       <file leaf-file-name="hashTableSpec.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sprint-two/spec/hashTableSpec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="316" max-vertical-offset="1080">
+            <state vertical-scroll-proportion="0.0" vertical-offset="661" max-vertical-offset="1080">
               <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="graphSpec.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sprint-two/spec/graphSpec.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -96,36 +143,6 @@
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="setSpec.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sprint-two/spec/setSpec.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="495">
-              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="graphSpec.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sprint-two/spec/graphSpec.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="601" max-vertical-offset="1005">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stack.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sprint-one/src/pseudoclassical/stack.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="390">
-              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -145,6 +162,8 @@
         <option value="$PROJECT_DIR$/sprint-two/src/set.js" />
         <option value="$PROJECT_DIR$/sprint-two/spec/hashTableSpec.js" />
         <option value="$PROJECT_DIR$/sprint-two/src/hashTable.js" />
+        <option value="$PROJECT_DIR$/sprint-two/spec/binarySearchTreeSpec.js" />
+        <option value="$PROJECT_DIR$/sprint-two/src/binarySearchTree.js" />
       </list>
     </option>
   </component>
@@ -453,18 +472,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/sprint-two/spec/hashTableSpec.js</url>
-          <line>47</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/sprint-two/src/hashTable.js</url>
-          <line>18</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="14" />
     </breakpoint-manager>
     <watches-manager />
@@ -506,7 +513,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1423350715000" expanded="true" signature="273:621" placeholder="{...}" />
+            <marker date="1423350715000" expanded="true" signature="399:621" placeholder="{...}" />
+            <marker date="1423350715000" expanded="true" signature="620:621" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -588,7 +599,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1423350715000" expanded="true" signature="273:621" placeholder="{...}" />
+            <marker date="1423350715000" expanded="true" signature="399:621" placeholder="{...}" />
+            <marker date="1423350715000" expanded="true" signature="620:621" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -682,14 +697,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sprint-two/src/tree.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
-          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sprint-one/src/pseudoclassical/stack.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
@@ -698,50 +705,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sprint-two/spec/graphSpec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="601" max-vertical-offset="1005">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sprint-two/spec/setSpec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
           <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sprint-two/src/linkedList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="371" max-vertical-offset="840">
-          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="44" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sprint-two/src/graph.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="213" max-vertical-offset="750">
-          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sprint-two/src/set.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sprint-two/spec/hashTableSpec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="571" max-vertical-offset="1080">
-          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -756,10 +723,78 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sprint-two/src/set.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
+          <caret line="44" column="2" selection-start-line="44" selection-start-column="2" selection-end-line="44" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sprint-two/src/tree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sprint-two/src/graph.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1410">
+          <caret line="83" column="17" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sprint-two/spec/graphSpec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="601" max-vertical-offset="1005">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sprint-two/src/hashTable.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65707433" vertical-offset="116" max-vertical-offset="1200">
-          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1425">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <marker date="1423350715000" expanded="true" signature="273:621" placeholder="{...}" />
+            <marker date="1423350715000" expanded="true" signature="399:621" placeholder="{...}" />
+            <marker date="1423350715000" expanded="true" signature="620:621" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sprint-two/spec/hashTableSpec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="661" max-vertical-offset="1080">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sprint-two/spec/binarySearchTreeSpec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sprint-two/src/binarySearchTree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="678" max-vertical-offset="1095">
+          <caret line="59" column="26" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sprint-two/src/linkedList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.122302" vertical-offset="0" max-vertical-offset="1245">
+          <caret line="59" column="1" selection-start-line="64" selection-start-column="0" selection-end-line="71" selection-end-column="2" />
           <folding />
         </state>
       </provider>
